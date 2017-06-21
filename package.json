@@ -7,7 +7,7 @@
   },
   "author": "toles04",
   "license": "ISC",
-  "repository": "",
+  "repository": "https://github.com/toles04/how-to-npm.git",
   "description": "How To NPM",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
