@@ -1,0 +1,15 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "toles04",
+  "license": "ISC",
+  "repository": "",
+  "description": "How To NPM",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
